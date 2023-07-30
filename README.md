@@ -1,4 +1,4 @@
-CE at Politecnico di Torino
+CE at Politecnico di Torino,
 interested in Django and Python
 <!---
 falnero/falnero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
